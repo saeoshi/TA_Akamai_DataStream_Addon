@@ -6,6 +6,9 @@ RELEASE NOTES
 (The most up-to-date version of the release notes is available online:
 https://github.com/saeoshi/TA_Akamai_DataStream_Addon/README.md)
 
+1.0.0 Initial Release
+1.0.1 Add tags.conf and eventypes.conf
+
 
 WHAT DOES THIS APP DO?
 ======================
