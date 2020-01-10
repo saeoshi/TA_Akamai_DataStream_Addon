@@ -8,6 +8,7 @@ https://github.com/saeoshi/TA_Akamai_DataStream_Addon/README.md)
 
 1.0.0 Initial Release
 1.0.1 Add tags.conf and eventypes.conf
+1.0.2 Add HEC RAW Event type
 
 
 WHAT DOES THIS APP DO?
